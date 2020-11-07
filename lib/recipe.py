@@ -103,7 +103,7 @@ conversionEngine.add_rule(Ingredient.PortabelloMushroom, \
 conversionEngine.add_rule(Ingredient.Potato, \
                          Quantity.largeItems, \
                          Quantity.oz, \
-                         13)
+                         8)
 
 conversionEngine.add_rule(Ingredient.Rosemary, \
                           Quantity.sprigs, \
